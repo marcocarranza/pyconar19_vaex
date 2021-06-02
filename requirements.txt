@@ -94,7 +94,7 @@ toolz==0.10.0
 tornado==6.0.3
 traitlets==4.3.3
 traittypes==0.2.1
-urllib3==1.25.7
+urllib3==1.26.5
 vaex==2.4.0
 vaex-arrow==0.4.1
 vaex-astro==0.6.1
